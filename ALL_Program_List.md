@@ -19,5 +19,3 @@
 9. Creation of LAN using Switch 
 
 10. Connecting two different LANS using the Router 
-
-11. Programming using RP
